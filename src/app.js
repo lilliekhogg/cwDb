@@ -4,7 +4,7 @@
         dashboard = document.getElementById("dashboard"),
         widgets = document.getElementById("widgets"),
         icons  = [
-            { id: "widgetone", name: "Time", pic: "http://icons.iconarchive.com/icons/vcferreira/firefox-os/64/clock-icon.png" },
+                { id: "widgetone", name: "Time", pic: "http://icons.iconarchive.com/icons/vcferreira/firefox-os/64/clock-icon.png" },
             { id: "widgettwo", name: "Notepad", pic: "http://icons.iconarchive.com/icons/mcdo-design/book/64/Note-Book-icon.png" },
             { id: "widgetthree", name: "Date", pic: "http://icons.iconarchive.com/icons/youthedesigner/new-year/64/calendar-icon.png" },
             { id: "widgetfour", name: "Qotd", pic: "http://icons.iconarchive.com/icons/elegantthemes/beautiful-flat-one-color/64/quote-icon.png" },
